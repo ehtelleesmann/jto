@@ -1,0 +1,33 @@
+{
+  "name": "jto-price-checker",
+  "version": "1.0.0",
+  "description": "check  price",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fahlizza",
+  "license": "ISC",
+  "dependencies": {
+    "alt-price-checker": "^1.0.0",
+    "axios": "^1.6.7",
+    "bnb-price-checker": "^1.0.3",
+    "btc-price-checker": "^1.0.4",
+    "eth-price-checker": "^1.0.2",
+    "chalk": "^5.3.0",
+    "jup-price-checker": "^1.0.1",
+    "pyth-price-checker": "^1.0.3",
+    "shell-oooooyoung": "^1.1.9",
+    "sol-price-checker": "^1.0.2",
+    "ssv-price-checker": "^1.0.0",
+    "ing-price-checker": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fahlizza/jto-price-checker"
+  },
+  "bugs": {
+    "url": "https://github.com/fahlizza/jto-price-checker/issues"
+  },
+  "homepage": "https://github.com/fahlizza/jto-price-checker/blob/main/README.md"
+}
